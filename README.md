@@ -143,4 +143,158 @@
 
 ------------------------------------------
 
-9. 
+9. 단비교육 - 윙크/윙크북스 서비스 프론트엔드(ReactJS) 개발자
+
+> 기술 스택 : Tailwind CSS / REST API / Webpack / Socket.IO / AWS Amplify / TypeScript / ReactJS
+
+>> 업무
+- 윙크 서비스 홈페이지 개발 및 운영 업무 
+- 단비교육 관리자 시스템 개발 및 운영
+- 학습단말기(안드로이드)와 학부모와 아이들이 소통할 수 있는 전용 앱 개발 및 운영
+
+>> 우대사항
+- TypeScript 사용 유경험자
+- Webpack 등 번들링 툴에 대한 이해도가 높은 개발 경험 유경험자
+- TDD 개발 혹은 테스트 코드 작성 유경험자
+- FLutter, Cordovs를 이용한 하이브리드 앱 개발 유경험자
+- JIRA, Confluence, Slack, Git 등 협업 툴 유경험자
+
+* 링크 : <https://career.programmers.co.kr/job_positions/24569>
+
+------------------------------------------
+
+10. 클라썸 - 웹(React) 개발자
+
+> 기술 스택 : Redux.js / ReactJS / TypeScript / Sass(SCSS)
+
+>> 업무
+- 클라썸의 성장에 따른 확장성, 생산성 있는 웹 개발
+- 다양한 디바이스 환경을 고려한 반응형 웹 개발
+
+>> 우대사항
+- SassO(SCSS) 사용에 능숙한 자
+- Git을 통한 버전 관리에 능숙한 자
+- React, Redux 사용 유경험자
+- HTML, SCSS, TypeScript에 능숙한 자
+
+* 링크 : <https://career.programmers.co.kr/job_positions/15890>
+
+------------------------------------------
+
+11. 제너럴커피코디네이터 - React-native 개발자
+
+> 기술 스택 : ReactJS / React Native / Node.js
+
+>> 업무
+- 자사 홈페이지 및 자사 앱 유지보수
+- 자사 신규 앱 개발
+- 소프트웨어 개발 / SI 개발 외주 업무
+
+>> 우대사항
+- TypeScript 작업 유경험자
+- 외국인 개발자들과 협업이 매끄러운 자
+
+
+* 링크 : <https://career.programmers.co.kr/job_positions/24111>
+
+------------------------------------------
+
+12. 페이타랩 - [패스오더]iOS 개발자
+
+> 기술 스택 : iOS / Swift / Objective-C
+
+>> 업무
+- Swift를 주 언어로 iOS 애플리케이션 개발, 운영, 최적화
+- 새로운 기술 도입, 구조 개선, 성능 최적화
+
+>> 우대사항
+
+- Swift, Objective-C에 대한 경험과 지식이 풍부한 자
+- iOS 프로젝트 기반 작업 유경험자
+- MVVM 디자인 패턴 적용 유경험자
+
+* 링크 : <https://career.programmers.co.kr/job_positions/18765>
+
+------------------------------------------
+
+13. 페이타랩 - [패스오더]안드로이드 개발자
+
+> 기술 스택 : Android / Kotlin / Java
+
+>> 업무
+- Kotlin을 주 언어로 안드로이드 애플리케이션 개발, 운영, 최적화
+- 새로운 기술 도입, 구조 개선, 성능 최적화
+
+>> 우대사항
+- Kotlin, Java에 대한 경험과 지식이 풍부한 자
+- AOS 프로젝트 기반 작업 유경험자
+- MVVM 디자인 패턴 적용 유경험자
+
+* 링크 : <https://career.programmers.co.kr/job_positions/9637>
+
+------------------------------------------
+
+14. 케어랩스 - [디지털마케팅 사업무] 웹 퍼블리셔 계약직(1년)
+
+> 기술 스택 : Git / HTML / JavaScript / Python / SQL
+
+>> 업무
+- 온라인 광고 이벤트 페이지 제작 업무
+
+>> 우대사항
+- HTML5/CSS3에 대한 실무 가능자
+- JavaScript 제작 및 플러그인 활용 가능자
+
+* 링크 : <https://www.wanted.co.kr/wd/198725?client_id=o673kBbqnYF6QVD4jKyTKhRP>
+
+------------------------------------------
+
+15. 리갈하이 - 프론트엔드/React-Native 개발자
+
+> 기술 스택 : React / TypeScript / React Native / Next.js
+
+>> 업무
+- React-native 기반의 애플리케이션 개발
+- React, Next.js 기반의 프론트엔드 개발
+
+>> 우대사항
+- JavaScript를 능숙하게 다룰 수 있는 자
+- React-Native 개발 유경험자
+
+* 링크 : <https://www.wanted.co.kr/wd/197541?client_id=o673kBbqnYF6QVD4jKyTKhRP>
+
+------------------------------------------
+
+16. 데브툴즈 - 프론트엔드 개발자(신입)
+
+> 기술 스택 : Node.js / Go / NoSQL / Restful API
+
+>> 업무
+- 자체 UI 프레임 워크 개발 및 발전 방향 연구
+- 웹 앱의 기능 설계
+
+>> 우대사항
+- Svn, Git 등을 통한 버전관리와 협업에 능한 자
+- TypeScript를 이용한 JavaScript 정적 타입 분석 유경험자
+- 반응형 디자인, 웹 접근성, 웹 표준을 고려한 UI 개발 유경험자
+
+* 링크 : <https://www.wanted.co.kr/wd/199993?client_id=o673kBbqnYF6QVD4jKyTKhRP>
+
+------------------------------------------
+
+17. 니어브레인 - Fronted, React 개발자
+
+> 기술 스택 : Github / C / C++ / HTML / JavaScript / AWS
+
+>> 업무
+- Frontend 관련 프로그래밍
+- React를 활용한 Frontend 개발
+- 기존 Frontend 유지보수
+
+>> 우대사항
+- Frontend, React 개발 유경험자
+- 백엔드 개발자와의 협업 유경험자
+
+* 링크 : <https://www.wanted.co.kr/wd/195584?client_id=o673kBbqnYF6QVD4jKyTKhRP>
+
+------------------------------------------
