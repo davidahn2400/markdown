@@ -3,7 +3,7 @@
 
 ## 채용 공고 목록들
 
-*1. 티맥스 - Tibero 연구원
+1. 티맥스 - Tibero 연구원
 
 기술 스택 : JAVA / Git / Python / Go / TypeScript / JavaScript / C / C++
 
@@ -20,7 +20,7 @@
 - Database 사용 유경험자 및 SQL 이해도가 높은 자
 - CKA, CKAD를 보유하거나 AWS, Azure 관련 자격증 보유자
 
-*2. 루미르 - 프론트엔드 개발자
+2. 루미르 - 프론트엔드 개발자
 
 기술 스택 : JavaScript / ReactJS / CSS / HTML / Next.js / Leaflet / JIRA
 
@@ -34,7 +34,7 @@
 - Jira, Confluence를 통한 업무 경험 보유자
 - Figma를 통한 뷰 설계 유경험자
 
-*3. 페이타랩 - [패스오더] Windows 개발자
+3. 페이타랩 - [패스오더] Windows 개발자
 
 기술 스택 : REST API / C# / C++ / WPF / .NET
 
