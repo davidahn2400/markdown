@@ -21,6 +21,7 @@
 - Database 사용 유경험자 및 SQL 이해도가 높은 자
 - CKA, CKAD를 보유하거나 AWS, Azure 관련 자격증 보유자
 
+* 링크 : <https://career.programmers.co.kr/job_positions/24122>
 ------------------------------------------
 
 2. 루미르 - 프론트엔드 개발자
@@ -37,6 +38,8 @@
 - Jira, Confluence를 통한 업무 경험 보유자
 - Figma를 통한 뷰 설계 유경험자
 
+* 링크 : <https://career.programmers.co.kr/job_positions/24657>
+
 ------------------------------------------
 
 3. 페이타랩 - [패스오더] Windows 개발자
@@ -50,5 +53,7 @@
  >> 우대사항
   - WPF 상용 서비스 개발, 배포 및 운영 유경험자
   - Thermal Printer 연동 등 POS 시스템 개발 유경험자
+
+* 링크 : <https://career.programmers.co.kr/job_positions/9643>
 
 ------------------------------------------
