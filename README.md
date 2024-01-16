@@ -34,14 +34,14 @@
 - Jira, Confluence를 통한 업무 경험 보유자
 - Figma를 통한 뷰 설계 유경험자
 
-  *파랑3. 페이타랩 - [패스오더] Windows 개발자
+*파랑3. 페이타랩 - [패스오더] Windows 개발자
 
-  기술 스택 : REST API / C# / C++ / WPF / .NET
+기술 스택 : REST API / C# / C++ / WPF / .NET
 
-  업무
+업무
   - WPF를 이용한 응용프로그램 개발, 배포 및 유지/보수
   - 패스오더 PC 주문접수 애플리케이션 개발
  
-  우대사항
+ 우대사항
   - WPF 상용 서비스 개발, 배포 및 운영 유경험자
   - Thermal Printer 연동 등 POS 시스템 개발 유경험자
