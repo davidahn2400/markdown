@@ -298,3 +298,150 @@
 * 링크 : <https://www.wanted.co.kr/wd/195584?client_id=o673kBbqnYF6QVD4jKyTKhRP>
 
 ------------------------------------------
+
+18. 티맥스티베로 - [TmaxCloud] 클라우드 서비스 개발 연구원
+
+> 기술 스택 : C# / Java / JavaScript / Linux / MySQL / Python / Spring / C
+
+>> 업무
+- 클라우트 애플리케이션 서비스 백엔드 및 프론트
+- DDD(Data Driven Development) 기반의 노코드/레스코드 개발 툴 설계 및 개발
+- 클라우드 기반의 차세데 IDE 설계 및 개발
+- 클라우드 시스템 및 서비스 지료 모니터링 시스템 개발
+
+>> 우대사항
+- Kubernetes 기반의 클라우드 네이티브 애플리케이션 개발 실무 유경험자
+- CI/CD, 애플리케이션 통합 및 배포에 대한 배경지식을 보유한 자
+- 오픈소스 모니터링 서비스 활용 유경험자
+
+* 링크 : <https://career.programmers.co.kr/job_positions/19329>
+
+------------------------------------------
+
+19. 랑데뷰 - WebUI SW(프론트/백엔드) 개발자
+
+> 기술 스택 : jQuery / JavaScript / Ajax / WebGL / PHP / HTML / MySQL / Node.js ? Git / Docker / CSS / ReactJS / Spring
+
+>> 업무
+- Web 기반의 UI 프로그램 개발
+- AWS 기반의 데이터 확인 및 UI 프로그램 개발
+- WebGL 기반의 3D UI 프로그램 개발
+
+>> 우대사항
+- 1종보통운전면허 소지자
+- 전기/전자공학, 컴퓨터/시스템공학 등 관련 학위 보유자
+
+* 링크 : <https://career.programmers.co.kr/job_positions/16979>
+
+------------------------------------------
+
+20. 에임 - 소프트웨어 엔지니어
+
+> 기술 스택 : Python / C++ / JavaScript
+
+>> 업무
+- 자산관리 서비스 개발
+- 고객 자산 데이터 관리
+
+>> 우대사항
+- Android, iOS 등 모바일 환경 동작 App 제작 유경험자
+- RDB(MySQL 등)이나 NoSQL DB(MongoDB, Redis 등) 개발 유경험자
+
+* 링크 : <https://career.programmers.co.kr/job_positions/15610>
+
+------------------------------------------
+
+21. 가인지캠퍼스 - 프론트엔드 개발자
+
+> 기술 스택 : TypeScript / GraphQL / React Native / Next.js / MySQL / TypeORM
+
+>> 업무
+- React 기반 웹 사이트 개발 및 배포
+
+>> 우대사항
+- GraphQL 사용 유경험자
+- 반응형 웹 개발 유경험자
+- 웹 사이트 퍼포먼스 측정 및 최적화 유경험자
+
+* 링크 : <https://career.programmers.co.kr/job_positions/15955>
+
+------------------------------------------
+
+22. 스마트캐스트 - C++ 개발자
+
+> 기술 스택 : Qt / C / Git / MySQL / C++ / OpenGL / SQLite / Embedded System
+
+>> 업무
+- 자사 솔루션(KIOSK, Tablet Order, KDS) 추가 기능 개발 및 고도화
+
+>> 우대사항
+- QT Platform 사용 유경험자
+
+* 링크 : <https://career.programmers.co.kr/job_positions/13537>
+
+------------------------------------------
+
+23. 프래프 - (Front-End) 소프트웨어 개발자
+
+> 기술 스택 : JavaScript / ReactJS / React Native
+
+>> 업무
+- SI / 소프트웨어(자사) 개발
+
+>> 우대사항
+- 프로젝트 코드 형상관리에 능통한 자
+- 프로젝트 베이스로 업무 진행 유경험자
+
+* 링크 : <https://career.programmers.co.kr/job_positions/8701>
+
+------------------------------------------
+
+24. 아이오트러스트 - [IoTrust] 프론트엔드 개발
+
+> 기술 스택 : Node.js / web3.js / Babel / Webpack / Vue.js / GitHub / Yarn / Storybook
+
+>> 업무
+- UX/UI 경험 제공 및 공통 모듈 개발
+- 관리자 웹 서비스 개발/운영
+- 블록체인 기반 API의 요구사항 분석 및 서비스에 적용/운영
+
+>> 우대사항
+- Vue.js, Vue2에서 Vue3으로의 마이그레이션 유경험자
+- Webpack4 및 Webpack5 빌드 과정 설정이나 테스트 코드 작성, JS 번들링 과정 최적화에 능숙한 자
+
+* 링크 : <https://career.programmers.co.kr/job_positions/20312>
+
+------------------------------------------
+
+25. 스매치코퍼레이션 - 프론트엔드, 백엔드 개발자
+
+> 기술 스택 : Kotlin / Spring Boot / GraphQL / Realy / TypeScript / Python / FastAPI / ReactJs / Next.js / Tailwind CSS
+
+>> 업무
+- UX 디자인 및 기능 조직별 밋업, 개발
+
+>> 우대사항
+- 기술한 기술스택에 능동한 자
+
+* 링크 : <https://career.programmers.co.kr/job_positions/16992>
+
+------------------------------------------
+
+26. 인텔리즈 - 제조산업을 위한 인공지능 응용 소프트웨어 엔지니어
+
+> 기술 스택 : C++ / Python / Java / C# / Node.js / dlib / PyTorch / Deep Learning
+
+>> 업무
+- 딥러닝기반 머신비전 시스템 구축(Linux Device, Windows O/S)
+- Solution D(머신비전 딥러닝 라이브러리) 연구/개발
+- 제조 산업용 머신비전용 인공지능 플랫폼 구축(제조IT관련 인공지능 시스템 관련 기술, 빅데이터 수집관련 기술, 인공지능기반 머신비전 플랫폼 등)
+
+>> 우대사항
+- 인공지능관련 전공 및 경력자
+- 머신러닝 관련 전공 및 경력자
+- UI/UX 관련 전공 및 경력자
+- 빅데이터 수집관련 전공 및 경력자
+
+* 링크 : <https://career.programmers.co.kr/job_positions/13001>
+
+------------------------------------------
