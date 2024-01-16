@@ -71,6 +71,8 @@
 >> 우대사항
 - 컴퓨터 관련 전공자
 
+* 링크 : <https://career.programmers.co.kr/job_positions/22811>
+
 ------------------------------------------
 
 5. 히비스 - 플랫폼 서비스 개발 팀원
@@ -84,6 +86,8 @@
 >> 우대사항
 - 명료하고 간결한 코드 작성에 유능한 자
 - 기획 및 설계에 적극적인 참여 가능한 자와 유경험자
+
+* 링크 : <https://career.programmers.co.kr/job_positions/2385>
 
 ------------------------------------------
 
@@ -103,6 +107,8 @@
 - Jira 활요 및 Confluence 문서화에 익숙한 자
 - 통계 분석 및 빅데이터 및 AI 관련 프로젝트 유경험자
 
+* 링크 : <https://career.programmers.co.kr/job_positions/1207>
+
 ------------------------------------------
 
 7. PurrSong - Frontend Developer Web / App 개발자
@@ -118,6 +124,8 @@
 - TypeScript 사용 유경험자
 - React Native, Flutter 등 모바일 크로스 플랫폼 개발 유경험자
 
+* 링크 : <https://career.programmers.co.kr/job_positions/13565>
+
 ------------------------------------------
 
 8. 브릿지코드 - 풀스택 개발자(Manager)
@@ -130,6 +138,8 @@
 >> 우대사항
 - B2B 서비스 개발 유경험자
 - 데이터 기반 서비스에 능숙한 자
+
+* 링크 : <https://career.programmers.co.kr/job_positions/22723>
 
 ------------------------------------------
 
